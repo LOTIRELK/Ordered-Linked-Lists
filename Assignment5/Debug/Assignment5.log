@@ -1,0 +1,5 @@
+﻿  Assignment5.cpp
+c:\users\lorca\documents\assignment5\assignment5\assignment5.cpp(24): warning C4101: 'count2': unreferenced local variable
+c:\users\lorca\documents\assignment5\assignment5\orderedlist.h(203): warning C4715: 'SortedType<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::ReturnItem': not all control paths return a value
+  Assignment5.vcxproj -> C:\Users\lorca\Documents\Assignment5\Debug\Assignment5.exe
+  Assignment5.vcxproj -> C:\Users\lorca\Documents\Assignment5\Debug\Assignment5.pdb (Full PDB)
